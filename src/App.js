@@ -10,7 +10,7 @@ function App() {
 
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://lunchin.in/pages/choose-a-plan"
           target="_blank"
           rel="noopener noreferrer"
         >
